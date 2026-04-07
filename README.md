@@ -325,10 +325,9 @@ Common use cases:
 - Runtime instrumentation workflows
 - Rooted-emulator preparation for advanced scenarios
 
-## Screenshot Notes
+## 📣 Feedback & Issues
 
-The image paths in this document are written for the `AVDKit-Release` repository structure and assume the screenshots are stored under:
+This is a public distribution repository.  
+If you encounter any issues, bugs, or have feature suggestions, please feel free to open an issue.
 
-`screenshots/`
-
-If the final release repository uses a different folder structure, update the image links to match that layout.
+Your feedback helps improve the stability and usability of AVDKit.
